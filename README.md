@@ -111,4 +111,5 @@ Low / Low / Low
 
 Deep discounts or minimal marketing efforts, focusing resources on higher-potential groups.
 
-Project by [Devika M]
+
+Project by Devika M
